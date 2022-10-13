@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">VamosRachar</string>
+    <string name="real">R$</string>
+    <string name="marcador_valor">0.00</string>
+    <string name="marcador_pessoas">2</string>
+    <string name="parcela">0,00</string>
+    <string name="descricao_pessoas">Quantidade de pessoas para dividir o valor</string>
+    <string name="info_icone">Logo</string>
+    <string name="mais">Mais pessoas</string>
+    <string name="menos">Menos pessoas</string>
+</resources>
